@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Revanth Kumar
-- 🌱 I’m currently learning Java FullStack
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me - contact through mail: revanth2912000@gmail.com
 
 <!---
